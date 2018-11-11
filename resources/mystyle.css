@@ -1,0 +1,161 @@
+	.main_mods {
+   	position: absolute;
+    left: 225px;
+    top: 75px;  
+    }
+
+	.textbox {
+   	position: absolute;
+    left: 25px;
+    top: 75px;  
+    }
+	
+	.other{
+   	position: absolute;
+    left: 960px;
+    top: 70px;
+    }
+
+
+
+	.Modifiers {
+   	position: absolute;
+    left: 660px;
+    top: 70px;
+    }
+
+	.resizedTextbox {
+	position: absolute;
+    left: 300px;
+    top: 130px;
+	}
+	.output_green {
+	position: absolute;
+    left: 225;
+    top: 325px;
+    width: 400px;  
+    padding: 0px 5px;  
+    border: 5px solid #4CAF50;
+	}
+	.output_red {
+	position: absolute;
+    left: 225;
+    top: 300px;
+    width: 400px;  
+    padding: 0px 5px;  
+    border: 5px solid #7B241C;
+	}
+	.output_blue {
+	position: absolute;
+    left: 225;
+    top: 250px;
+    width: 450px;  
+    padding: 0px 5px;  
+    border: 5px solid #0000FF;
+	}
+
+	.output3 {
+	position: absolute;
+    left: 225;
+    top: 250px;
+    width: 450px;  
+    padding: 0px 5px;  
+    border: 5px solid #0000FF;
+	}
+
+	.output5{
+	position: absolute;
+    left: 225;
+    top: 250px;
+    width: 450px;  
+    padding: 0px 5px;  
+    border: 5px solid #0000FF;
+	}
+
+
+	.button_location {
+	position: absolute;
+    left: 25px;
+    top: 300px;
+	}
+
+	.name{
+	position: absolute;
+    left: 300px;
+    top: 90px;
+	}
+
+    .button_red_location {
+    position: absolute;
+    left: 25px;
+    top: 350;
+    }
+
+    .button_blue_location {
+    position: absolute;
+    left: 25px;
+    top: 275;
+    }
+    	
+	.button{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 30px 36px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	}
+
+    .button2{
+    background-color: #7B241C;
+    border: none;
+    color: white;
+    padding: 30px 36px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+
+    .button3{
+    background-color: #0000FF;
+    border: none;
+    color: white;
+    padding: 30px 36px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+
+    .ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    }
+
+    .li {
+    float: left;
+    }
+
+    .a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+    .a:hover {
+    background-color: #111;
+    }
